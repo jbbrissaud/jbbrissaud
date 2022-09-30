@@ -3,9 +3,10 @@
 - 🌱 My choice of 'framework' is totally opinionated: 
     Scala3, for the server AND the client. A cool, strongly typed, very regular language, using indentation.
     zio-http for the server, zio + laminar for the client. For me the best combination, by far.
-- 📫 My email: jb.brissaud@gmail.com
+- 📫 
 
 <!---
+My email: jb.brissaud@gmail.com
 jbbrissaud/jbbrissaud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
